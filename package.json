@@ -29,7 +29,7 @@
     "zod": "^4.4.3"
   },
   "license": "MIT",
-  "description": "Share a running Paseo workspace service through a temporary Cloudflare link protected by an email one-time PIN.",
+  "description": "Share a running workspace service through a temporary Cloudflare Quick Tunnel link, protected by an email one-time PIN by default.",
   "repository": {
     "type": "git",
     "url": "https://github.com/applixodoo/paseo-cloudflare-public-link"
