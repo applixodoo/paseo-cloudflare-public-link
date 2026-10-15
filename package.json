@@ -29,9 +29,21 @@
     "zod": "^4.4.3"
   },
   "license": "MIT",
-  "description": "Share a running workspace service through a temporary Cloudflare Quick Tunnel link, protected by an email one-time PIN by default.",
+  "description": "Share a running workspace service, such as a dev server or preview, through a temporary public HTTPS link on Cloudflare, with optional email PIN protection and no account needed.",
   "repository": {
     "type": "git",
     "url": "https://github.com/applixodoo/paseo-cloudflare-public-link"
-  }
+  },
+  "keywords": [
+    "paseo",
+    "paseo-plugin",
+    "cloudflare",
+    "cloudflare-tunnel",
+    "trycloudflare",
+    "share",
+    "public-link",
+    "preview",
+    "localhost",
+    "tunnel"
+  ]
 }

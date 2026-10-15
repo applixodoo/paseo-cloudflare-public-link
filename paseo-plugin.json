@@ -1,7 +1,7 @@
 {
   "id": "cloudflare-public-link",
   "name": "Cloudflare Public Link",
-  "description": "Share a running workspace service through a temporary Cloudflare Quick Tunnel link, protected by an email one-time PIN by default.",
+  "description": "Share a running workspace service, such as a dev server or preview, through a temporary public HTTPS link on Cloudflare, with optional email PIN protection and no account needed.",
   "media": [
     "images/access.png",
     "images/menu.png",
