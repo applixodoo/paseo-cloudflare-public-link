@@ -1,0 +1,9 @@
+{
+  "id": "cloudflare-public-link",
+  "name": "Cloudflare Public Link",
+  "description": "Share a running workspace service through a temporary Cloudflare link protected by an email one-time PIN.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.11.2"
+  }
+}
