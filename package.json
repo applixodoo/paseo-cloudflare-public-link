@@ -11,7 +11,8 @@
     "client/",
     "server/",
     "shared/",
-    "README.md"
+    "README.md",
+    "images/"
   ],
   "scripts": {
     "typecheck": "tsc --noEmit",
